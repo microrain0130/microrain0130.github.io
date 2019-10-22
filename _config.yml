@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 微雨
 subtitle:
-description:
-keywords:
-author: John Doe
+description: 一名程序员，喜欢逆向，希望在系统底层的路上越走越远
+keywords: 逆向、反编译
+author: 微雨
 language: en
-timezone:
+timezone: shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
